@@ -12,7 +12,7 @@ if answer == "y" :
   def otpgen() :
     otp = ""
     for i in range(4):
-      otp+=str(r.randint(1,9))
+      otp+=str(r.randint(0,9))
     print("Your OTP is: ")
     print(otp)
 
