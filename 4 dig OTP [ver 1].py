@@ -1,4 +1,5 @@
 # Python Program for simple OTP generator
+# ver 1
 
 import math, random
 
