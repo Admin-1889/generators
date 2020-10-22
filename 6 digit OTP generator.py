@@ -1,3 +1,5 @@
+# Python Program for simple OTP generator
+
 import math, random
 
 print("6 digit OTP Generator")
